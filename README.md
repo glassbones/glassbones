@@ -2,6 +2,9 @@
 
 <img align="center" src="https://i.ibb.co/hXZgNw3/my-name.png"/>
 
+<img align="center" src="https://s8.gifyu.com/images/ezgif.com-gif-makerc666e2af3e1fd8b5.gif"/>
+
+
 - 🔭 I’m currently working on a Labs project called Citrics!
 - 🌱 I’m currently three.js and react three fiber.
 - 📫 Email me at: michael.johnson.dev@protonmail.com
