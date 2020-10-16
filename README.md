@@ -1,16 +1,44 @@
-### Hi there 👋
+<img align="center" src="https://i.ibb.co/LvmYVjp/hey.png"/>
 
-<!--
-**glassbones/glassbones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://i.ibb.co/hXZgNw3/my-name.png"/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Labs project called Citrics!
+- 🌱 I’m currently three.js and react three fiber.
+- 📫 Email me at: michael.johnson.dev@protonmail.com
+- ⚡ Fun fact: I'm also an electronic music producer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://i.ibb.co/1vtT4Th/connect-with-me.png"/>
+
+<a href="https://www.linkedin.com/in/michael-johnson-develop/"><img src="https://img.shields.io/badge/linkedin-141321?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://codesandbox.io/u/glassbones"><img src="https://img.shields.io/badge/codesandbox-006167?style=for-the-badge&logo=codesandbox&logoColor=white"/></a>
+
+<img align="center" src="https://i.ibb.co/RpKCMgm/my-skills.png"/>
+
+![HTML5](https://img.shields.io/badge/html%205-006167?style=for-the-badge&logo=html5&logoColor=white&labelColor=141321)
+![CSS3](https://img.shields.io/badge/css%203-006167?style=for-the-badge&logo=css3&logoColor=white&labelColor=141321)
+![Sass](https://img.shields.io/badge/sass-006167?style=for-the-badge&logo=sass&logoColor=white&labelColor=141321)
+![JavaScript](https://img.shields.io/badge/-JavaScript-006167?style=for-the-badge&logo=javascript&logoColor=white&labelColor=141321)
+<br>
+![java](https://img.shields.io/badge/java-006167?style=for-the-badge&logo=java&logoColor=white&labelColor=141321)
+![spring](https://img.shields.io/badge/-spring-006167?style=for-the-badge&logo=spring&logoColor=white&labelColor=141321)
+![sql](https://img.shields.io/badge/-sql-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
+<br>
+![react](https://img.shields.io/badge/react-006167?style=for-the-badge&logo=react&logoColor=white&labelColor=141321)
+![redux](https://img.shields.io/badge/-redux-006167?style=for-the-badge&logo=redux&logoColor=white&labelColor=141321)
+![bootstrap](https://img.shields.io/badge/-bootstap-006167?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=141321)
+![materialui](https://img.shields.io/badge/-materialui-006167?style=for-the-badge&logo=google&logoColor=white&labelColor=141321)
+<br>
+![aws](https://img.shields.io/badge/-aws-006167?style=for-the-badge&logo=amazon&logoColor=white&labelColor=141321)
+![vercel](https://img.shields.io/badge/-vercel-006167?style=for-the-badge&logo=vercel&logoColor=white&labelColor=141321)
+![git](https://img.shields.io/badge/-git-006167?style=for-the-badge&logo=git&logoColor=white&labelColor=141321)
+![github](https://img.shields.io/badge/-github-006167?style=for-the-badge&logo=github&logoColor=white&labelColor=141321)
+<br>
+![python](https://img.shields.io/badge/-python-006167?style=for-the-badge&logo=python&logoColor=white&labelColor=141321)
+![MarkDown](https://img.shields.io/badge/-Markdown-006167?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=141321)
+![git](https://img.shields.io/badge/-git-006167?style=for-the-badge&logo=git&logoColor=white&labelColor=141321)
+
+<img align="center" src="https://i.ibb.co/fCxjdTw/github.png"/>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=glassbones&hide=stars,issues&show_icons=true&theme=radical&title_color=0bfca5&text_color=fff&icon_color=0bfca5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glassbones&theme=radical&title_color=0bfca5&text_color=fff)
